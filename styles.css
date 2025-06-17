@@ -1,0 +1,23 @@
+body {
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 0 auto;
+    max-width: 900px;
+    line-height: 1.8;
+}
+
+header h1 {
+    margin-bottom: 0.5rem;
+}
+
+section ul li {
+    h4 {
+        margin-bottom: 0rem;
+    }
+
+    p {
+        margin-top: 0rem;
+    }
+}
